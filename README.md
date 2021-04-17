@@ -24,9 +24,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br></br>
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/deep-bansal">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deep-bansal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deep-bansal&layout=compact&langs_count=8&theme=algolia"/>
@@ -35,8 +36,9 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<!-- <p align="center">
-<a href="https://linkedin.com/in/deep-bansal"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:deepvinaybansal@yahoo.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/deep__bansal_/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p> -->
+<p align="center">
+<a href="https://linkedin.com/in/deep-bansal"><img src="https://img.shields.io/badge/-deep-bansal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:deepvinaybansal@yahoo.com"><img src="https://img.shields.io/badge/-deepvinaybansal@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/deep__bansal_/"><img src="https://img.shields.io/badge/-@deep-bansal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
