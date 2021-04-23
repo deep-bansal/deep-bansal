@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the Maharaja Agrasen Institute of Technology,Delhi.\
 🌱 &nbsp;I'm on track for learning about Competitive Programming,Python.\
 💬 &nbsp;Feel free to reach out to me for help.\
-✉️ &nbsp;You can shoot me an email at deepvinaybansal@yahoo.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at deepvinaybansal@yahoo.com I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
