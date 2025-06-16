@@ -1,44 +1,89 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Deep</h2>
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop softwares.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the Maharaja Agrasen Institute of Technology,Delhi.\
-🌱 &nbsp;I'm on track for learning about Competitive Programming,Python.\
-💬 &nbsp;Feel free to reach out to me for help.\
-✉️ &nbsp;You can shoot me an email at deepvinaybansal@yahoo.com I'll try to respond as soon as I can.
-
-<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br></br>
-### ⚙️ &nbsp;GitHub Analytics
+<h1 align="center">Hi there, I'm Deep Bansal 👋</h1>
+<h3 align="center">MTech CSE @ IIIT Bangalore | Software Engineer Intern @ Arista | Full-Stack Developer | System Design Enthusiast</h3>
 
 <p align="center">
-<a href="https://github.com/deep-bansal">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deep-bansal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deep-bansal&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/deep-bansal"><img src="https://img.shields.io/github/followers/deep-bansal?label=Follow&style=social"></a>
+  <a href="https://linkedin.com/in/deep-bansal"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:deepvinaybansal@yahoo.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
+
+### 🧑‍🎓 Education
+
+- **M.Tech in Computer Science Engineering**, IIIT Bangalore (2023 – Present)  
+  CGPA: 3.35 / 4.0
+
+- **B.Tech in Information Technology**, MAIT (2019 – 2023)  
+  CGPA: 9.327 / 10.0
+
+---
+
+### 💼 Experience
+
+**Software Engineer Intern** — *Arista Networks* (Jan 2025 – Present)  
+*Technologies: Python, Go, GCP, Kubernetes*
+- Built a robust log migration service handling 2TB+ uploads and 1TB+ downloads daily.
+- Prevented race conditions via distributed locking mechanism.
+- Designed automated cleanup for stale logs across 100+ GCP buckets using Kubernetes CronJobs.
+- Currently developing a production-ready Go microservice.
+
+**Teaching Assistant Intern** — *Coding Ninjas* (May 2021 – Sept 2021)  
+*Technologies: ReactJS, NodeJS, JavaScript*
+- Resolved 1100+ student doubts and mentored 15+ students individually.
+- Helped increase engagement and problem-solving capability by 20%.
+
+---
+
+### 🚀 Projects
+
+#### 🔎 [Knowledge Base System - ArticleVerse](https://github.com/deep-bansal/smartlinks.git)
+*Node.js, Neo4j, MongoDB, ElasticSearch, ReactJS*
+- Implemented graph-based article system with version control and efficient traversal.
+- Enabled content-based search using Elasticsearch (~200ms latency).
+- Real-time collaborative editing across users.
+
+#### 🩺 [Arogyashala](https://github.com/deep-bansal/ArogyaShala.git)
+*ReactJS, Spring Boot, SQL, Microservices, WebSockets*
+- Scalable teleconsultation platform built using microservices.
+- Real-time appointment scheduling with sub-2-minute booking time.
+- HIPAA-compliant consent and secure onboarding for multiple hospitals.
+
+#### 📧 [InboxCom](https://github.com/deep-bansal/InboxCom.git)
+*ReactJS, Node.js, MongoDB, Docker, Kubernetes, Jenkins*
+- Custom SMTP server built with RFC 5321 compliance and session handling.
+- Real-time email delivery updates using WebSockets.
+- CI/CD pipeline, auto-scaling, and reverse proxy with Ansible + NGINX.
+
+---
+
+### 🛠️ Skills & Technologies
+
+**Languages:** C++, C, JavaScript, Golang  
+**Frontend:** ReactJS, HTML, CSS  
+**Backend:** NodeJS, Spring Boot  
+**DevOps & Cloud:** Docker, Kubernetes, Jenkins, GCP, Ansible, NGINX  
+**Databases:** SQL, NoSQL (MongoDB), Neo4j  
+**Other Tools:** Git, Linux, WebSockets, Elasticsearch, OOP
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥇 **AIR 3** – ZS Campus Beats Program (2022)  
+- 🥈 **AIR 608** – GATE CSE (2023)  
+- 📜 Certified **MERN Stack Developer** – Coding Ninjas
+
+---
+
+### 📫 Contact Me
+
+- ✉️ Email: [deepvinaybansal@yahoo.com](mailto:deepvinaybansal@yahoo.com)  
+- 🔗 LinkedIn: [linkedin.com/in/deep-bansal](https://linkedin.com/in/deep-bansal)  
+- 🧑‍💻 GitHub: [github.com/deep-bansal](https://github.com/deep-bansal)
+
+---
 
 <p align="center">
-<a href="https://linkedin.com/in/deep-bansal"><img src="https://img.shields.io/badge/DeepBansal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:deepvinaybansal@yahoo.com"><img src="https://img.shields.io/badge/-deepvinaybansal@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/deep__bansal_/"><img src="https://img.shields.io/badge/DeepBansal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=deep-bansal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
-
