@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Deep Bansal 👋</h1>
-<h3 align="center">MTech CSE @ IIIT Bangalore | Software Engineer Intern @ Arista | Full-Stack Developer | System Design Enthusiast</h3>
+<h3 align="center">MTech CSE @ IIIT Bangalore | Software Engineer Intern @ Arista | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/deep-bansal"><img src="https://img.shields.io/github/followers/deep-bansal?label=Follow&style=social"></a>
